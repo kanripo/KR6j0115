@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說無能勝幡王如來莊嚴陀羅尼經
+#+DATE: 2015-08-30 20:26:08.250888
+#+PROPERTY: JUAN 0
